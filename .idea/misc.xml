@@ -16,14 +16,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.5 (C:\Users\Geovane\Anaconda3\envs\django\python.exe)" project-jdk-type="Python SDK" />
-  <component name="PyConsoleOptionsProvider">
-    <option name="myPythonConsoleState">
-      <console-settings is-module-sdk="true">
-        <option name="myUseModuleSdk" value="true" />
-      </console-settings>
-    </option>
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3 virtualenv at C:\Users\Geovane\djangogirls\myvenv" project-jdk-type="Python SDK" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Geovane\AppData\Roaming\Subversion</configuration>
   </component>
